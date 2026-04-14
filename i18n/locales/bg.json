@@ -1,0 +1,74 @@
+{
+  "Index": {
+    "title": "НАМЕРИ",
+    "slogan": "Говоренето е евтино, лъжите са безценни",
+    "startGame": "Начало на играта"
+  },
+  "SetupPhase": {
+    "gameSetup": "Настройка на играта",
+    "configureSettings": "Конфигурирайте настройките на играта преди да стартирате рунда.",
+    "players": "Играчи",
+    "ready": "готови",
+    "numberOfPlayers": "Брой играчи:",
+    "playerNames": "Имена на играчи",
+    "player": "Играч",
+    "addPlayer": "Добави играч",
+    "of": "от",
+    "gameSettings": "Настройки на играта",
+    "language": "Език",
+    "hints": "Подсказки",
+    "showHints": "Показване на подсказки на imposter-ите",
+    "enabled": "Активирано",
+    "disabled": "Деактивирано",
+    "categories": "Категории",
+    "selected": "избрани",
+    "addCustomCategory": "Добави категория",
+    "done": "Готово",
+    "customCategoryPlaceholder": "Име на категория",
+    "selectCategory": "Моля, изберете най-малко една категория",
+    "startGame": "Начало на играта",
+    "generateWords": "Генерирай думи ✨",
+    "animals": "Животни",
+    "food": "Храна",
+    "objects": "Предмети",
+    "movies": "Филми",
+    "places": "Места",
+    "professions": "Професии",
+    "settings": "Настройки",
+    "difficulty": "Трудност",
+    "easy": "Лесно",
+    "medium": "Средно",
+    "hard": "Трудно"
+  },
+  "WordRevealPhase": {
+    "chooseYourCard": "Изберете вашата карта",
+    "selectAnyCard": "Изберете всяка карта, за да разкриете ролята на този играч",
+    "playersRevealed": "играчи разкрити",
+    "of": "от",
+    "tapToReveal": "Докоснете, за да разкриете",
+    "allCardsRevealed": "Всички карти са разкрити",
+    "everyPlayerSeen": "Всеки играч е видял своята роля",
+    "startDiscussion": "Начало на играта",
+    "player": "Играч",
+    "readyToReveal": "Готови ли сте да разкриете вашата роля?",
+    "impostor": "IMPOSTER",
+    "yourHint": "Вашата подсказка:",
+    "yourWordIs": "Вашата дума е:",
+    "flipCard": "Обърни картата",
+    "nextPlayer": "Следващ играч"
+  },
+  "DiscussionPhase": {
+    "sayYourWords": "Кажете вашите думи",
+    "starts": "започва",
+    "revealImpostor": "Разкрий самозванеца"
+  },
+  "ResultsPhase": {
+    "results": "Резултати",
+    "theWordWas": "Думата беше",
+    "newGame": "Нова игра",
+    "category": "Категория"
+  },
+  "Error": {
+    "somethingWentWrong": "Нещо се обърка, моля пробвайте отново."
+  }
+}

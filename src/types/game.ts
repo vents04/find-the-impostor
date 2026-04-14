@@ -1,0 +1,26 @@
+export type TranslationFunction = (key: string) => string;
+
+export interface Player {
+  id: number;
+  name: string;
+  role: "player" | "impostor";
+}
+
+export interface WordWithHints {
+  word: string;
+  hints: string[];
+}
+
+export interface GameState {
+  phase: "setup" | "wordreveal" | "discussion" | "results";
+  players: Player[];
+  totalPlayers: number;
+  impostorCount: number;
+  currentWord: string;
+  currentHints: string[];
+  currentCategory: string;
+  selectedCategories: string[];
+  showHintsToImpostors: boolean;
+  currentRevealIndex: number;
+  gameStarted: boolean;
+}
